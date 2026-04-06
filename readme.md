@@ -78,10 +78,10 @@ Decisiones (contenido sugerido, producción, marketing)
 Usuario (recibe contenido personalizado)
 ```
 ## 9) Problemas
-- Problema 1:
-- Solución 1:
-- Problema 2:
-- Solución 2:
+- Problema 1: Datos incompletos (usuarios que no valoran contenido)
+- Solución 1: Inferir preferencias mediante comportamiento (IA)
+- Problema 2: Datos erróneos (duplicados o mal registrados)
+- Solución 2: Aplicar limpieza y validación de datos
 
 ## 10) Fuente
-- Enlace:
+- Enlace: https://www.ibm.com/think/topics
